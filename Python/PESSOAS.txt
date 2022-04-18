@@ -1,0 +1,4 @@
+{'nome': 'caio', 'idade': '23', 'sexo': 'M'}
+{'nome': 'matheus', 'idade': '34', 'sexo': 'M'}
+{'nome': 'joão', 'idade': '34', 'sexo': 'M'}
+{'nome': 'maria', 'idade': '45', 'sexo': 'F'}

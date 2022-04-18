@@ -1,2 +1,2 @@
 # Python
- programas simples desenvolvidos em python
+ programas/funções simples desenvolvidos em python
