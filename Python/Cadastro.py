@@ -44,6 +44,6 @@ class cadastro:
             print('VOLTE SEMPRE!!!')
             break
         else:
-            print('VOCÊ DIGITOU UM VALOR FORA DAS OPÇÕES')
+            print('\033[1;31m VOCÊ DIGITOU UM VALOR FORA DAS OPÇÕES\033[1;0m')
                                       
 
